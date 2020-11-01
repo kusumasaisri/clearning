@@ -17,6 +17,19 @@ download https://git-scm.com/download/win
 location C:\Program Files\Git
 > git --version
 
+create a new repository on the command line
+echo "# clearning" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kusumasaisri/clearning.git
+git push -u origin main
+                
+push an existing repository from the command line
+git remote add origin https://github.com/kusumasaisri/clearning.git
+git branch -M main
+git push -u origin main
 
 keyboard shortcuts
 
