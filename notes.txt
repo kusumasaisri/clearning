@@ -1,8 +1,23 @@
 dev setup
 
-vs code setup
+vscode setup
 location C:\Users\kusuma\AppData\Local\Programs\Microsoft VS Code
 > code . #to open vs code in current folder
+file > preferences > settings (ctrl + ,)
+font 18
+theme install nord theme
+workbench theme nord
+minmap disable
+install eclipse keymap
+
+vscode shortcuts
+ctrl + d - delete current line
+alt + shift + ^ - duplicate current line
+ctrl + enter - from current position to insert new line below
+ctrl + ` - to open terminal
+ctrl + tab - to tab through opened editors
+ctrl + pg up - to tab previous editors
+ctrl + pg dn - to tab next editors
 
 c compiler(mingw) setup
 location C:\MinGW
@@ -69,5 +84,3 @@ cd.. - go to parent directory
 ^ - go to command history
 cd /d d: - to change drive dir
 echo %path% - view os env variables path
-
-																																												
