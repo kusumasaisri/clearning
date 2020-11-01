@@ -1,0 +1,46 @@
+dev setup
+
+vs code setup
+location C:\Users\kusuma\AppData\Local\Programs\Microsoft VS Code
+> code . #to open vs code in current folder
+
+c compiler(mingw) setup
+location C:\MinGW
+select mingw32-base-bin,mingw32-gcc-g++-bin
+C:\MinGW\bin add to path
+> gcc --version #to check the version
+> gcc hello.c -o hello.exe #for compile
+> hello.exe #to execute program
+
+git setup
+download https://git-scm.com/download/win
+location C:\Program Files\Git
+> git --version
+
+
+keyboard shortcuts
+
+win+d = go  to desktop
+ctrl+shift+n = create new folder
+ctrl+ > = go to next word
+ctrl+ < = go to previous word
+alt+tab= view opened windows
+alt+d= go to address bar 
+win+s - search
+
+win+e = open file explorer
+alt+ <= got to privious visited tab in file explorer
+alt+ >= go to next tab in file explorer
+alt+ ^= go to parent folder
+
+cli shorcuts
+win+r -run command 
+cmd - win command prompt
+dir - to list directory 
+cd - change directory
+cd.. - go to parent directory
+^ - go to command history
+cd /d d: - to change drive dir
+echo %path% - view os env variables path
+
+																																												
