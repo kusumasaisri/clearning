@@ -31,6 +31,12 @@ git remote add origin https://github.com/kusumasaisri/clearning.git
 git branch -M main
 git push -u origin main
 
+adding .gitignore file
+source taken from https://github.com/github/gitignore
+take .gitignore file as per your programmin language
+additional folders can be added
+
+
 keyboard shortcuts
 
 win+d = go  to desktop
